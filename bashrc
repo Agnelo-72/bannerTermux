@@ -8,5 +8,5 @@ PS1='\$ '
 
 #!/bin/
 
-figlet -c -f slant -t 'MY BANNER' | lolcat
+figlet -c 'MY BANNER' | lolcat
 
